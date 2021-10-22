@@ -1,0 +1,32 @@
+body{
+    background-color: cornflowerblue;
+    font-family: '
+    }
+    img{
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+    }
+    
+body  {
+    background: lightsalmon;
+    background:rebeccapurple
+    font-family 'Roboto'
+}
+
+    
+body{
+    background: lawngreen;
+    background: lemonchiffon;
+    font-family: 'Teko'cursive
+}
+section{
+    height: 100px;
+    width: 100;
+    background-color: darkblue;
+    display: flex;
+    align-items: baseline;
+}
+
+  
